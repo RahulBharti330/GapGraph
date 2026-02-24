@@ -1,6 +1,6 @@
 # GapGraph API Engine ⚙️
 
-GapGraph API is a robust, RESTful backend service designed to aggregate academic research data and extract methodology gaps using Natural Language Processing. It serves as the core data layer for the GapGraph ecosystem, bridging scholarly databases with AI-driven text analysis.
+GapGraph API is a robust, RESTful backend service designed to aggregate academic research data and extract methodology gaps using Natural Language Processing. It serves as the core data layer for the GapGraph ecosystem, bridging scholarly databases with AI-driven text analysis. View your app in AI Studio: [link](https://ai.studio/apps/209f1417-424b-4fe7-8377-ee541f4813c9)
 
 ## 🏗 System Architecture
 * **External Integration:** Communicates with the Semantic Scholar Graph API for metadata retrieval.
@@ -38,9 +38,5 @@ This contains everything you need to run your app locally.
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 
-
-
-
-View your app in AI Studio: [link](https://ai.studio/apps/209f1417-424b-4fe7-8377-ee541f4813c9)
 3. Run the app:
    `npm run dev`

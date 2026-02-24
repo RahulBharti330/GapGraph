@@ -29,8 +29,6 @@ MAX_REQUESTS_PER_WINDOW=100
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: [link](https://ai.studio/apps/209f1417-424b-4fe7-8377-ee541f4813c9)
-
 ## Run Locally
 
 **Prerequisites:**  Node.js
@@ -39,5 +37,10 @@ View your app in AI Studio: [link](https://ai.studio/apps/209f1417-424b-4fe7-837
 1. Install dependencies:
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+
+
+
+
+View your app in AI Studio: [link](https://ai.studio/apps/209f1417-424b-4fe7-8377-ee541f4813c9)
 3. Run the app:
    `npm run dev`

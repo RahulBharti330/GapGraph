@@ -1,0 +1,5 @@
+{
+  "name": "GapGraph",
+  "description": "A research paper visualization tool that connects papers by their extracted methodologies and research gaps.",
+  "requestFramePermissions": []
+}

@@ -1,6 +1,6 @@
 # GapGraph API Engine ⚙️
 
-GapGraph API is a robust, RESTful backend service designed to aggregate academic research data and extract methodology gaps using Natural Language Processing. It serves as the core data layer for the GapGraph ecosystem, bridging scholarly databases with AI-driven text analysis. View your app in AI Studio: [link](https://ais-dev-c2xlan5fs5dxszx4oh4zqu-61769961147.asia-east1.run.app/)
+GapGraph API is a robust, RESTful backend service designed to aggregate academic research data and extract methodology gaps using Natural Language Processing. It serves as the core data layer for the GapGraph ecosystem, bridging scholarly databases with AI-driven text analysis. View your app: [link](https://ais-dev-c2xlan5fs5dxszx4oh4zqu-61769961147.asia-east1.run.app/)
 
 ## 🏗 System Architecture
 * **External Integration:** Communicates with the Semantic Scholar Graph API for metadata retrieval.
